@@ -1,0 +1,3 @@
+name = "sadique"
+
+print(name)
